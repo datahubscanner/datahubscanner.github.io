@@ -1,9 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>http://datahubscanner.github.io/blog/2015/11/13/zombie-ninjas-attack-a-survivors-retrospective/</loc>
+    <lastmod>2015-11-13T14:25:11-05:00</lastmod>
+  </url>
+  <url>
     <loc>http://datahubscanner.github.io/blog/archives/</loc>
   </url>
   <url>
     <loc>http://datahubscanner.github.io/</loc>
+  </url>
+  <url>
+    <loc>http://datahubscanner.github.io/about/</loc>
+  </url>
+  <url>
+    <loc>http://datahubscanner.github.io/blog/categories/css3/</loc>
+  </url>
+  <url>
+    <loc>http://datahubscanner.github.io/blog/categories/sass/</loc>
+  </url>
+  <url>
+    <loc>http://datahubscanner.github.io/blog/categories/media-queries/</loc>
   </url>
 </urlset>
