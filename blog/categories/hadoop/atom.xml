@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Hadoop | Everything Big Data]]></title>
   <link href="http://datahubscanner.github.io/blog/categories/hadoop/atom.xml" rel="self"/>
   <link href="http://datahubscanner.github.io/"/>
-  <updated>2015-11-17T00:36:54-05:00</updated>
+  <updated>2015-11-17T16:20:35-05:00</updated>
   <id>http://datahubscanner.github.io/</id>
   <author>
     <name><![CDATA[Kashif Khan]]></name>
@@ -14,10 +14,10 @@
 
   
   <entry>
-    <title type="html"><![CDATA[Zombie Ninjas Attack: A Survivor's Retrospective]]></title>
-    <link href="http://datahubscanner.github.io/blog/2015/11/13/zombie-ninjas-attack-a-survivors-retrospective/"/>
-    <updated>2015-11-13T14:25:11-05:00</updated>
-    <id>http://datahubscanner.github.io/blog/2015/11/13/zombie-ninjas-attack-a-survivors-retrospective</id>
+    <title type="html"><![CDATA[Understanding Java Virtual Machine]]></title>
+    <link href="http://datahubscanner.github.io/blog/2015/11/17/understanding-java-virtual-machine/"/>
+    <updated>2015-11-17T16:06:50-05:00</updated>
+    <id>http://datahubscanner.github.io/blog/2015/11/17/understanding-java-virtual-machine</id>
     <content type="html"><![CDATA[
 ]]></content>
   </entry>
