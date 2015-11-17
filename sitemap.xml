@@ -20,12 +20,24 @@
     <loc>http://datahubscanner.github.io/about/</loc>
   </url>
   <url>
-    <loc>http://datahubscanner.github.io/blog/categories/css3/</loc>
+    <loc>http://datahubscanner.github.io/blog/categories/java/</loc>
   </url>
   <url>
-    <loc>http://datahubscanner.github.io/blog/categories/sass/</loc>
+    <loc>http://datahubscanner.github.io/blog/categories/linux/</loc>
   </url>
   <url>
-    <loc>http://datahubscanner.github.io/blog/categories/media-queries/</loc>
+    <loc>http://datahubscanner.github.io/blog/categories/hadoop/</loc>
+  </url>
+  <url>
+    <loc>http://datahubscanner.github.io/blog/categories/yarn/</loc>
+  </url>
+  <url>
+    <loc>http://datahubscanner.github.io/blog/categories/nosql/</loc>
+  </url>
+  <url>
+    <loc>http://datahubscanner.github.io/blog/categories/spark/</loc>
+  </url>
+  <url>
+    <loc>http://datahubscanner.github.io/blog/categories/kafka/</loc>
   </url>
 </urlset>
