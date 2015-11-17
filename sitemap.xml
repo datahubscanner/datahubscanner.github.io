@@ -11,13 +11,19 @@
     <loc>http://datahubscanner.github.io/blog/archives/</loc>
   </url>
   <url>
-    <loc>http://datahubscanner.github.io/tutorials/</loc>
-  </url>
-  <url>
     <loc>http://datahubscanner.github.io/</loc>
   </url>
   <url>
+    <loc>http://datahubscanner.github.io/tutorials/</loc>
+  </url>
+  <url>
+    <loc>http://datahubscanner.github.io/books/</loc>
+  </url>
+  <url>
     <loc>http://datahubscanner.github.io/about/</loc>
+  </url>
+  <url>
+    <loc>http://datahubscanner.github.io/projects/</loc>
   </url>
   <url>
     <loc>http://datahubscanner.github.io/blog/categories/java/</loc>
