@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[Category: Linux | Everything Big Data]]></title>
-  <link href="http://datahubscanner.github.io/blog/categories/linux/atom.xml" rel="self"/>
+  <title><![CDATA[Category: Nosql | Everything Big Data]]></title>
+  <link href="http://datahubscanner.github.io/blog/categories/nosql/atom.xml" rel="self"/>
   <link href="http://datahubscanner.github.io/"/>
   <updated>2015-11-23T00:07:04-05:00</updated>
   <id>http://datahubscanner.github.io/</id>
